@@ -3,7 +3,9 @@
 
 - 🔭 Atualmente eu estou desenvolvendo um template de site para restaurantes [BurgerReact](https://github.com/Gerson-Gomes/Burger-React)
 
-- 💻 Minhas Stacks Principais são: ReactJs/Vite , Java/Spring e PostgreSQL 
+- 💻 Minhas Stacks Principais são: ReactJs/Vite , Java/Spring e PostgreSQL
+
+- 🥇 Minhas certificações: AWS Cloud Practitioner
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
