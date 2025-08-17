@@ -1,5 +1,5 @@
 <h1 align="center">Bem Vindo(a), meu nome é Gerson</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Um desenvolvedor fullstack</h3>
 
 - 🔭 Atualmente eu estou desenvolvendo um template de site para restaurantes [BurgerReact](https://github.com/Gerson-Gomes/Burger-React)
 
